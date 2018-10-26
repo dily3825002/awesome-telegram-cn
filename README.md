@@ -176,3 +176,10 @@
 ## Community Forums
 
 * [Telegram 开发者社区](http://dev.storebot.me)
+
+## telegram 其它资料
+
+[区块链的Telegram运营课](https://cloud.tencent.com/developer/news/227991)
+[Telegram Client 开发](https://www.jianshu.com/p/0f61dd28d969)
+[Telegram资源整理开发](https://www.jianshu.com/p/d2d4e92bfb04)
+
